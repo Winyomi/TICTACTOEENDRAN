@@ -1,0 +1,12 @@
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TICTACTOENEW.csproj.AssemblyReference.cache
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TicTacToe.Form1.resources
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TicTacToe.AdminForm.resources
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TicTacToe.LoginForm.resources
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TICTACTOENEW.Properties.Resources.resources
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TICTACTOENEW.csproj.GenerateResource.cache
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TICTACTOENEW.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\bin\Debug\TICTACTOENEW.exe.config
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\bin\Debug\TICTACTOENEW.exe
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\bin\Debug\TICTACTOENEW.pdb
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TICTACTOENEW.exe
+C:\Users\X\source\repos\TICTACTOENEW\TICTACTOENEW\obj\Debug\TICTACTOENEW.pdb
